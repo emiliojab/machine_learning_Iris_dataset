@@ -1,7 +1,7 @@
-## The Iris Dataset
-### In this notebook, many Machine Learning Algorithms were implemented on the Iris Dataset.
-### The Iris Dataset is one of the "Hello World" problems in Machine Learning.
+# The Iris Dataset
+## The Iris Dataset is one of the "Hello World" problems in Machine Learning.
 #### The notebook iris.ipynb contains detailed explanation and analysis about the work done
+#### In this notebook, many Machine Learning Algorithms were implemented on the Iris Dataset.
 
 ### The Machine Learning **(ML)** Algorithms used are:
 * __[Supervised Learning:](https://www.ibm.com/cloud/blog/supervised-vs-unsupervised-learning#:~:text=for%20your%20situation.-,What%20is%20supervised%20learning%3F,-Supervised%20learning%20is)__
